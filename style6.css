@@ -1,0 +1,14 @@
+div{
+    width: 250px;
+    height: 350px;
+    border: solid 1px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px gainsboro;
+    padding: 10px;
+    float: left;
+    margin: 10px;
+}
+ img{
+    width: 100%;
+    
+ }

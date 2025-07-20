@@ -1,0 +1,25 @@
+div{
+    width: 250px;
+    height: 350px;
+    border: solid 1px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px gainsboro;
+    padding: 10px;
+}
+#div2{
+    margin-left: 300px;
+    margin-top: -370px;
+}
+#div3{
+    margin-left: 600px;
+    margin-top: -370px;
+}
+#div4{
+    margin-left: 900px;
+    margin-top: -370px;
+}
+
+ img{
+    width: 100%;
+    
+ }

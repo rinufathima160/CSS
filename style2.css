@@ -1,0 +1,25 @@
+*{
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;  
+}
+
+#head{
+    color: red;
+    text-align: center;
+    font-size: 70px;
+}
+.sel{
+    color: yellowgreen;
+}
+#div1{
+    text-align: center;
+}
+
+h3,.sel{
+    color: rgb(138, 43, 226);
+
+}
